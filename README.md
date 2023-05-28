@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Maulidan and currently i'm a fresh graduate with a strong passion for data analysis. Aspiring to be a Data Analyst, I am eager to showcase my skills, projects, and contributions in the field of data analysis and visualization.
+
+## Skills & Experience
+* SQL
+* Java
+* Python
+* R
 
 <!--
 **MaulidanAziz/MaulidanAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
