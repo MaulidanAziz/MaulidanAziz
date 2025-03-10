@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Maulidan and currently i'm a fresh graduate with a strong passion for data analysis. Aspiring to be a Data Analyst, I am eager to showcase my skills, projects, and contributions in the field of data analysis and visualization.
+I'm Maulidan and currently i'm a SQL Developer with a strong passion for data analysis and data science. Aspiring to be a Data Analyst, I am eager to showcase my skills, projects, and contributions in the field of data analysis and visualization.
 
 Im still learning about the magic world of Data Analyst 🌐 and endless journey into the holy place of Internet of Things Society 🎇
 🔭 I am using GitHub as my portfolio, every project and code that i did hopefully will stand as a proof of my proficiency as Informatics Undergraduate Student and maybe can also be considered as contribution for the coding community.
